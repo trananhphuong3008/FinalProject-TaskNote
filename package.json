@@ -1,8 +1,7 @@
   "description": "Task Note for [Tasnote - website](https://github.com/trananhphuong3008/FinalProject-TaskNote). \r 
   "main": "index.js",
   "scripts": {
-    "test": "jest src/app.test.js",
-    "test": "jest app.test.js",
-    "start": "nodemon app.js"
+    "test": "jest group_Project/client/src/App.js",
+    "start": "nodemon App.js"
   },
   "repository": {
